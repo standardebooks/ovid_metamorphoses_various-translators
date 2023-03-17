@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ovid/metamorphoses/john-dryden_joseph-addison_laurence-eusden_arthur-maynwaring_samuel-croxall_nahum-tate_william-stonestreet_thomas-vernon_john-gay_alexander-pope_stephen-harvey_william-congreve_et-al</dc:identifier>
+		<dc:date>1900-01-01T00:00:00Z</dc:date>
+		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
+		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
+		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
+		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
+		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
+		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
+		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
+		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
+		<meta property="a11y:certifiedBy">Standard Ebooks</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<meta property="schema:accessibilityFeature">tableOfContents</meta>
+		<meta property="schema:accessibilityFeature">unlocked</meta>
+		<meta property="schema:accessibilityHazard">none</meta>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
+		<dc:title id="title">Metamorphoses</dc:title>
+		<meta property="file-as" refines="#title">Metamorphoses</meta>
+		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
+		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="se:subject">TAG</meta>
+		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			LONG_DESCRIPTION
+		</meta>
+		<dc:language>LANG</dc:language>
+		<dc:source>PG_URL</dc:source>
+		<dc:source>IA_URL</dc:source>
+		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:word-count">WORD_COUNT</meta>
+		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metamorphoses</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/ovid_metamorphoses_john-dryden_joseph-addison_laurence-eusden_arthur-maynwaring_samuel-croxall_nahum</meta>
+		<dc:creator id="author">Ovid</dc:creator>
+		<meta property="file-as" refines="#author">CONTRIBUTOR_SORT</meta>
+		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ovid</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79041738</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="translator-1">John Dryden</dc:contributor>
+		<meta property="file-as" refines="#translator-1">Dryden, John</meta>
+		<meta property="se:name.person.full-name" refines="#translator-1">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/John_Dryden</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n79006406</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-2">Joseph Addison</dc:contributor>
+		<meta property="file-as" refines="#translator-2">Addison, Joseph</meta>
+		<meta property="se:name.person.full-name" refines="#translator-2">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Joseph_Addison</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n80051828</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-3">Laurence Eusden</dc:contributor>
+		<meta property="file-as" refines="#translator-3">Eusden, Laurence</meta>
+		<meta property="se:name.person.full-name" refines="#translator-3">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-3">https://en.wikipedia.org/wiki/Laurence_Eusden</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-3">http://id.loc.gov/authorities/names/n85024779</meta>
+		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-4">Arthur Maynwaring</dc:contributor>
+		<meta property="file-as" refines="#translator-4">Maynwaring, Arthur</meta>
+		<meta property="se:name.person.full-name" refines="#translator-4">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">https://en.wikipedia.org/wiki/Arthur_Maynwaring</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/n85089634</meta>
+		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-5">Samuel Croxall</dc:contributor>
+		<meta property="file-as" refines="#translator-5">Croxall, Samuel</meta>
+		<meta property="se:name.person.full-name" refines="#translator-5">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-5">https://en.wikipedia.org/wiki/Samuel_Croxall</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-5">http://id.loc.gov/authorities/names/n83124411</meta>
+		<meta property="role" refines="#translator-5" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-6">Nahum Tate</dc:contributor>
+		<meta property="file-as" refines="#translator-6">Tate, Nahum</meta>
+		<meta property="se:name.person.full-name" refines="#translator-6">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-6">https://en.wikipedia.org/wiki/Nahum_Tate</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-6">http://id.loc.gov/authorities/names/n50008196</meta>
+		<meta property="role" refines="#translator-6" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-7">William Stonestreet</dc:contributor>
+		<meta property="file-as" refines="#translator-7">Stonestreet, William</meta>
+		<meta property="se:name.person.full-name" refines="#translator-7">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-7">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-7">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-7" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-8">Thomas Vernon</dc:contributor>
+		<meta property="file-as" refines="#translator-8">Vernon, Thomas</meta>
+		<meta property="se:name.person.full-name" refines="#translator-8">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-8">https://en.wikipedia.org/wiki/Thomas_Vernon</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-8">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-8" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-9">John Gay</dc:contributor>
+		<meta property="file-as" refines="#translator-9">Gay, John</meta>
+		<meta property="se:name.person.full-name" refines="#translator-9">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-9">https://en.wikipedia.org/wiki/John_Gay</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n80045862</meta>
+		<meta property="role" refines="#translator-9" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-10">Alexander Pope</dc:contributor>
+		<meta property="file-as" refines="#translator-10">Pope, Alexander</meta>
+		<meta property="se:name.person.full-name" refines="#translator-10">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-10">https://en.wikipedia.org/wiki/Alexander_Pope</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n79084387</meta>
+		<meta property="role" refines="#translator-10" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-11">Stephen Harvey</dc:contributor>
+		<meta property="file-as" refines="#translator-11">Harvey, Stephen</meta>
+		<meta property="se:name.person.full-name" refines="#translator-11">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-11">https://en.wikipedia.org/wiki/Stephen_Harvey</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-11">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-11" scheme="marc:relators">trl</meta>
+		<dc:contributor id="translator-12">William Congreve</dc:contributor>
+		<meta property="file-as" refines="#translator-12">Congreve, William</meta>
+		<meta property="se:name.person.full-name" refines="#translator-12">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-12">https://en.wikipedia.org/wiki/William_Congreve</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-12">http://id.loc.gov/authorities/names/n79092555</meta>
+		<meta property="role" refines="#translator-12" scheme="marc:relators">trl</meta>
+		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
+		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
+		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+	</metadata>
+	<manifest>
+		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	</manifest>
+	<spine>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
+	</spine>
+</package>
