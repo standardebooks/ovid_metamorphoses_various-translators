@@ -54,7 +54,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/100493538</dc:source>
 		<!-- secondary page scans -->
 		<dc:source>https://catalog.hathitrust.org/Record/001809312</dc:source>
-		<meta property="se:production-notes">The second set of page scans are used where there are scanning errors in the first set; the epistles are not part of the the epic poem.</meta>
+		<meta property="se:production-notes">1) The second set of page scans are used where there are scanning errors in the first set. 2) The epistles are not part of the the epic poem. 3) The list of translators ends with “et al.” because the repo file name exceeds 255 characters.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metamorphoses</meta>
