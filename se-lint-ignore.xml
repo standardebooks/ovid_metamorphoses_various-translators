@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>m-035</code>
+			<reason>The repo file name exceeds 255 characters.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>m-023</code>
+			<reason>The repo file name exceeds 255 characters.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
