@@ -131,23 +131,23 @@
 		<meta property="role" refines="#translator-13" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-14">Temple Stanyan</dc:contributor>
 		<meta property="file-as" refines="#translator-14">Stanyan, Temple</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-16">https://en.wikipedia.org/wiki/Temple_Stanyan</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-16">http://id.loc.gov/authorities/names/n85294641</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-14">https://en.wikipedia.org/wiki/Temple_Stanyan</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-14">http://id.loc.gov/authorities/names/n85294641</meta>
 		<meta property="role" refines="#translator-14" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-15">Alexander Stopford Catcott</dc:contributor>
-		<meta property="file-as" refines="#translator-17">Catcott, Alexander Stopford</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-17">https://en.wikipedia.org/wiki/Alexander_Stopford_Catcott</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-17">http://id.loc.gov/authorities/names/n85099869</meta>
+		<meta property="file-as" refines="#translator-15">Catcott, Alexander Stopford</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-15">https://en.wikipedia.org/wiki/Alexander_Stopford_Catcott</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-15">http://id.loc.gov/authorities/names/n85099869</meta>
 		<meta property="role" refines="#translator-15" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-16">Nicholas Rowe</dc:contributor>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-9">https://en.wikipedia.org/wiki/Nicholas_Rowe_(writer)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-9">http://id.loc.gov/authorities/names/n50022308</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-16">https://en.wikipedia.org/wiki/Nicholas_Rowe_(writer)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-16">http://id.loc.gov/authorities/names/n50022308</meta>
 		<meta property="role" refines="#translator-16" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-17">Samuel Garth</dc:contributor>
 		<meta property="file-as" refines="#translator-17">Garth, Samuel</meta>
-		<meta property="se:name.person.full-name" refines="#translator-10">Sir Samuel Garth</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-10">https://en.wikipedia.org/wiki/Samuel_Garth</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-10">http://id.loc.gov/authorities/names/n85024830</meta>
+		<meta property="se:name.person.full-name" refines="#translator-17">Sir Samuel Garth</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-17">https://en.wikipedia.org/wiki/Samuel_Garth</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-17">http://id.loc.gov/authorities/names/n85024830</meta>
 		<meta property="role" refines="#translator-17" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-18">Leonard Welsted</dc:contributor>
 		<meta property="file-as" refines="#translator-18">Welsted, Leonard</meta>
