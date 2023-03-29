@@ -24,21 +24,17 @@
 		}
 
 		.contributor{
-			font-size: 46.78362656px;
+			font-size: 35.78362656px;
 		}
 	</style>
 	<text class="title" x="700" y="130">METAMORPHOSES</text>
 	<text class="author" x="700" y="290">OVID</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">JOHN DRYDEN, JOSEPH ADDISON,</text>
-	<text class="contributor" x="700" y="600">LAURENCE EUSDEN, ARTHUR</text>
-	<text class="contributor" x="700" y="660">MAYNWARING, SAMUEL CROXALL,</text>
-	<text class="contributor" x="700" y="720">NAHUM TATE, WILLIAM STONESTREET,</text>
-	<text class="contributor" x="700" y="780">THOMAS VERNON, JOHN GAY,</text>
-	<text class="contributor" x="700" y="840">ALEXANDER POPE, STEPHEN HARVEY,</text>
-	<text class="contributor" x="700" y="900">WILLIAM CONGREVE, JOHN OZELL,</text>
-	<text class="contributor" x="700" y="960">TEMPLE STANYAN, ALEXANDER</text>
-	<text class="contributor" x="700" y="1020">STOPFORD CATCOTT, NICHOLAS ROWE,</text>
-	<text class="contributor" x="700" y="1080">SAMUEL GARTH, AND LEONARD</text>
-	<text class="contributor" x="700" y="1140">WELSTED</text>
+	<text class="contributor" x="700" y="540">JOHN DRYDEN, JOSEPH ADDISON, LAURENCE EUSDEN,</text>
+	<text class="contributor" x="700" y="580">ARTHUR MAYNWARING, SAMUEL CROXALL,</text>
+	<text class="contributor" x="700" y="620">NAHUM TATE, WILLIAM STONESTREET, THOMAS VERNON,</text>
+	<text class="contributor" x="700" y="660">JOHN GAY,ALEXANDER POPE, STEPHEN HARVEY,</text>
+	<text class="contributor" x="700" y="700">WILLIAM CONGREVE, JOHN OZELL, TEMPLE STANYAN,</text>
+	<text class="contributor" x="700" y="740">ALEXANDER STOPFORD CATCOTT, NICHOLAS ROWE</text>
+	<text class="contributor" x="700" y="780">SAMUEL GARTH, AND LEONARD WELSTED</text>
 </svg>
