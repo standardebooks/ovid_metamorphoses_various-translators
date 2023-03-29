@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 950">
-	<title>The titlepage for the Standard Ebooks edition of Metamorphoses, by Ovid. Translated by John Dryden, Joseph Addison, Laurence Eusden, Arthur Maynwaring, Samuel Croxall, Nahum Tate, William Stonestreet, Thomas Vernon, John Gay, Alexander Pope, Stephen Harvey, William Congreve, et al.</title>
+	<title>The titlepage for the Standard Ebooks edition of Metamorphoses, by Ovid. Translated by John Dryden, Joseph Addison, Laurence Eusden, Arthur Maynwaring, Samuel Croxall, Nahum Tate, William Stonestreet, Thomas Vernon, John Gay, Alexander Pope, Stephen Harvey, William Congreve, John Ozell, Temple Stanyan, Alexander Stopford Catcott, Nicholas Rowe, Samuel Garth, and Leonard Welsted.</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -30,11 +30,15 @@
 	<text class="title" x="700" y="130">METAMORPHOSES</text>
 	<text class="author" x="700" y="290">OVID</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">JOHN DRYDEN, JOSEPH</text>
-	<text class="contributor" x="700" y="600">ADDISON, LAURENCE EUSDEN, ARTHUR</text>
+	<text class="contributor" x="700" y="540">JOHN DRYDEN, JOSEPH ADDISON,</text>
+	<text class="contributor" x="700" y="600">LAURENCE EUSDEN, ARTHUR</text>
 	<text class="contributor" x="700" y="660">MAYNWARING, SAMUEL CROXALL,</text>
 	<text class="contributor" x="700" y="720">NAHUM TATE, WILLIAM STONESTREET,</text>
 	<text class="contributor" x="700" y="780">THOMAS VERNON, JOHN GAY,</text>
 	<text class="contributor" x="700" y="840">ALEXANDER POPE, STEPHEN HARVEY,</text>
-	<text class="contributor" x="700" y="900">WILLIAM CONGREVE, ET AL.</text>
+	<text class="contributor" x="700" y="900">WILLIAM CONGREVE, JOHN OZELL,</text>
+	<text class="contributor" x="700" y="960">TEMPLE STANYAN, ALEXANDER</text>
+	<text class="contributor" x="700" y="1020">STOPFORD CATCOTT, NICHOLAS ROWE,</text>
+	<text class="contributor" x="700" y="1080">SAMUEL GARTH, AND LEONARD</text>
+	<text class="contributor" x="700" y="1140">WELSTED</text>
 </svg>
