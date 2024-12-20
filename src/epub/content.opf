@@ -55,7 +55,7 @@
 		<!-- secondary page scans -->
 		<dc:source>https://catalog.hathitrust.org/Record/001809312</dc:source>
 		<meta property="se:production-notes">1) The second set of page scans are used where there are scanning errors in the first set. 2) The epistles are not part of the epic poem. 3) The list of translators ends with “et al.” because the repo file name exceeds 255 characters.</meta>
-		<meta property="se:word-count">135424</meta>
+		<meta property="se:word-count">135425</meta>
 		<meta property="se:reading-ease.flesch">64.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metamorphoses</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ovid_metamorphoses_john-dryden_joseph-addison_laurence-eusden_arthur-maynwaring_samuel-croxall_nahum</meta>
