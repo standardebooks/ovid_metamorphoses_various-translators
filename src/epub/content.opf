@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/ovid/metamorphoses/john-dryden_joseph-addison_laurence-eusden_arthur-maynwaring_samuel-croxall_nahum-tate_william-stonestreet_thomas-vernon_john-gay_alexander-pope_stephen-harvey_william-congreve_et-al</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators</dc:identifier>
 		<dc:date>2023-03-29T05:57:08Z</dc:date>
 		<meta property="dcterms:modified">2023-03-29T05:57:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -59,7 +59,7 @@
 		<meta property="se:word-count">135425</meta>
 		<meta property="se:reading-ease.flesch">64.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Metamorphoses</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/ovid_metamorphoses_john-dryden_joseph-addison_laurence-eusden_arthur-maynwaring_samuel-croxall_nahum</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/ovid_metamorphoses_various-translators</meta>
 		<dc:creator id="author">Ovid</dc:creator>
 		<meta property="file-as" refines="#author">Ovid</meta>
 		<meta property="se:name.person.full-name" refines="#author">Publius Ovidius Naso</meta>
