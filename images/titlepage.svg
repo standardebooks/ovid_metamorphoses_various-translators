@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 950">
-	<title>The titlepage for the Standard Ebooks edition of Metamorphoses, by Ovid. Translated by John Dryden, Joseph Addison, Laurence Eusden, Arthur Maynwaring, Samuel Croxall, Nahum Tate, William Stonestreet, Thomas Vernon, John Gay, Alexander Pope, Stephen Harvey, William Congreve, John Ozell, Temple Stanyan, Alexander Stopford Catcott, Nicholas Rowe, Samuel Garth, and Leonard Welsted.</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 1250">
+	<title>The titlepage for the Standard Ebooks edition of Metamorphoses, by Ovid. Translated by John Dryden, Joseph Addison, Laurence Eusden, Arthur Maynwaring, Samuel Croxall, Nahum Tate, William Stonestreet, Thomas Vernon, John Gay, Alexander Pope, Stephen Harvey, William Congreve, John Ozell, Temple Stanyan, Alexander Stopford Catcott, Nicholas Rowe, Samuel Garth, and Leonard Welsted</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -24,17 +24,22 @@
 		}
 
 		.contributor{
-			font-size: 35.78362656px;
+			font-size: 46.78362656px;
 		}
 	</style>
 	<text class="title" x="700" y="130">METAMORPHOSES</text>
 	<text class="author" x="700" y="290">OVID</text>
 	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">JOHN DRYDEN, JOSEPH ADDISON, LAURENCE EUSDEN,</text>
-	<text class="contributor" x="700" y="580">ARTHUR MAYNWARING, SAMUEL CROXALL,</text>
-	<text class="contributor" x="700" y="620">NAHUM TATE, WILLIAM STONESTREET, THOMAS VERNON,</text>
-	<text class="contributor" x="700" y="660">JOHN GAY,ALEXANDER POPE, STEPHEN HARVEY,</text>
-	<text class="contributor" x="700" y="700">WILLIAM CONGREVE, JOHN OZELL, TEMPLE STANYAN,</text>
-	<text class="contributor" x="700" y="740">ALEXANDER STOPFORD CATCOTT, NICHOLAS ROWE</text>
-	<text class="contributor" x="700" y="780">SAMUEL GARTH, AND LEONARD WELSTED</text>
+	<text class="contributor" x="700" y="540">JOHN DRYDEN,</text>
+	<text class="contributor" x="700" y="600">JOSEPH ADDISON, LAURENCE EUSDEN,</text>
+	<text class="contributor" x="700" y="660">ARTHUR MAYNWARING,</text>
+	<text class="contributor" x="700" y="720">SAMUEL CROXALL,</text>
+	<text class="contributor" x="700" y="780">NAHUM TATE, WILLIAM STONESTREET,</text>
+	<text class="contributor" x="700" y="840">THOMAS VERNON,</text>
+	<text class="contributor" x="700" y="900">JOHN GAY, ALEXANDER POPE,</text>
+	<text class="contributor" x="700" y="960">STEPHEN HARVEY, WILLIAM CONGREVE,</text>
+	<text class="contributor" x="700" y="1020">JOHN OZELL, TEMPLE STANYAN,</text>
+	<text class="contributor" x="700" y="1080">ALEXANDER STOPFORD CATCOTT,</text>
+	<text class="contributor" x="700" y="1140">NICHOLAS ROWE,</text>
+	<text class="contributor" x="700" y="1200">SAMUEL GARTH, AND LEONARD WELSTED</text>
 </svg>
