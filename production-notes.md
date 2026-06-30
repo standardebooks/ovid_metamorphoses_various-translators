@@ -1,0 +1,1 @@
+1) The second set of page scans are used where there are scanning errors in the first set. 2) The epistles are not part of the epic poem. 3) The list of translators ends with “et al.” because the repo file name exceeds 255 characters.
