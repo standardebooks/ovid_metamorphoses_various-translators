@@ -31,10 +31,10 @@
 		<dc:title id="title">Metamorphoses</dc:title>
 		<meta property="file-as" refines="#title">Metamorphoses</meta>
 		<dc:subject id="subject-1">Classical literature</dc:subject>
-		<dc:subject id="subject-2">Latin poetry -- Translations into English</dc:subject>
-		<dc:subject id="subject-3">Fables, Latin -- Translations into English</dc:subject>
-		<dc:subject id="subject-4">Metamorphosis -- Mythology -- Poetry</dc:subject>
-		<dc:subject id="subject-5">Mythology, Classical -- Poetry</dc:subject>
+		<dc:subject id="subject-2">Latin poetry--Translations into English</dc:subject>
+		<dc:subject id="subject-3">Fables, Latin--Translations into English</dc:subject>
+		<dc:subject id="subject-4">Metamorphosis--Mythology--Poetry</dc:subject>
+		<dc:subject id="subject-5">Mythology, Classical--Poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85026706</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
