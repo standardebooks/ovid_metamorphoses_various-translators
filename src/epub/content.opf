@@ -143,12 +143,12 @@
 		<link href="https://id.loc.gov/authorities/names/n85099869.html" refines="#translator-15" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-15" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-16">Nicholas Rowe</dc:contributor>
+		<meta property="file-as" refines="#translator-16">Rowe, Nicholas</meta>
 		<link href="https://en.wikipedia.org/wiki/Nicholas_Rowe_(writer)" refines="#translator-16" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50022308.html" refines="#translator-16" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-16" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-17">Samuel Garth</dc:contributor>
 		<meta property="file-as" refines="#translator-17">Garth, Samuel</meta>
-		<meta property="schema:alternateName" refines="#translator-17">Sir Samuel Garth</meta>
 		<link href="https://en.wikipedia.org/wiki/Samuel_Garth" refines="#translator-17" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85024830.html" refines="#translator-17" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator-17" scheme="marc:relators">trl</meta>
@@ -159,7 +159,6 @@
 		<meta property="role" refines="#translator-18" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Peter Paul Rubens</dc:contributor>
 		<meta property="file-as" refines="#artist">Rubens, Peter Paul</meta>
-		<meta property="schema:alternateName" refines="#artist">Sir Peter Paul Rubens</meta>
 		<link href="https://en.wikipedia.org/wiki/Peter_Paul_Rubens" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79055561.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
